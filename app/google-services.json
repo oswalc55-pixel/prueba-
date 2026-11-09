@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382595269073",
+    "project_id": "recu-b29e3",
+    "storage_bucket": "recu-b29e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382595269073:android:23d258dd1ca450cab860f0",
+        "android_client_info": {
+          "package_name": "com.example.ayudapararecu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5P3TUnkJ_2HsqmAubb4R2zuGD-7QC3D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
